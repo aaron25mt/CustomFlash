@@ -1,0 +1,9 @@
+Package: com.robottom.customflash
+Name: CustomFlash
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds settings to change color of screenshot flash!
+Maintainer: Aaron Thomas
+Author: Aaron Thomas
+Section: Tweaks
