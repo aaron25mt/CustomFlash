@@ -3,7 +3,7 @@ Name: CustomFlash
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Adds settings to change color of screenshot flash!
+Description: Replaces screenshot flash with banner notification.
 Maintainer: Aaron Thomas
 Author: Aaron Thomas
 Section: Tweaks
